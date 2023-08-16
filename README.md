@@ -3,7 +3,7 @@
 
 ### ⚡ My Github stats:
 <p align="center">
-  <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ThaminduR&show_icons=true&theme=gruvbox" />
+  <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mpmadhavig&show_icons=true&theme=gruvbox" />
 </p>
 
 <p align="center"> Contact Me </p>
