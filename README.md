@@ -1,31 +1,49 @@
-### Hi, I'm Sahan Dilshan 👋💻.
+## Hi, I’m Sahan Dilshan 👋💻
 
+### About Me
 
-### ⚡ My Github stats:
+- 🔭 I’m currently working on open source projects
+- 🌱 I’m always learning and exploring new technologies
+- 💬 Ask me about software development
+- 📫 Reach me at **sahandilshan222@gmail.com**
+
+---
+
+### ⚡ GitHub Stats
+
 <p align="center">
-  <img align="middle" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahandilshan&show_icons=true&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahandilshan&theme=gruvbox" alt="GitHub Streak" />
 </p>
 
-<p align="center"> Contact Me </p>
-
 <p align="center">
-    <a href="https://twitter.com/DPS_Dilshan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Sahan Dilshan" height="45" width="45" /></a>&nbsp;
-    <a href="https://www.linkedin.com/in/sahandilshan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sahan Dilshan" height="40" width="40" /></a>&nbsp;
-  <a href="https://medium.com/@sahandilshan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Sahan Dilshan" height="40" width="40" /></a>&nbsp;
-  <a href="mailto:sahandilshan222@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Sahan Dilshan" height="45" width="45" /></a>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=sahandilshan&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Sahan’s GitHub Stats" />
 </p>
 
-<!--
-**sahandilshan/sahandilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahandilshan&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
 
-Here are some ideas to get you started:>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahandilshan&theme=gruvbox&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+    <a href="https://x.com/DPS_Dilshan" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
+    <a href="https://www.linkedin.com/in/sahandilshan" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+    <a href="https://medium.com/@sahandilshan" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
+    <a href="mailto:sahandilshan222@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sahandilshan&label=Profile%20views&color=orange&style=flat" alt="Profile Views" />
+</p>
