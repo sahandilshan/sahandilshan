@@ -16,19 +16,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahandilshan&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Sahan’s GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sahandilshan&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Sahan’s GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahandilshan&layout=compact&theme=gruvbox" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahandilshan&theme=gruvbox&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sahandilshan&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
 ---
@@ -42,8 +34,3 @@
     <a href="mailto:sahandilshan222@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahandilshan&label=Profile%20views&color=orange&style=flat" alt="Profile Views" />
-</p>
